@@ -12,4 +12,10 @@ img {
   border: 5px solid red;
 }
 
+header a {
+  border: 1px solid black;
+  text-decoration: none;
+  border-radius: 15px;
+}
+
 
